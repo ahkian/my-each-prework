@@ -6,7 +6,7 @@ def my_each(array)
   end
   array
 end
-
-my_each() do |i|
+words = ['hi', 'hello', 'bye', 'goodbye']
+my_each(words) do |i|
   puts i
 end
