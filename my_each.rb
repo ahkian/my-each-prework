@@ -8,5 +8,5 @@ def my_each(array)
 end
 words = ['hi', 'hello', 'bye', 'goodbye']
 my_each(words) do |i|
-  puts i
+  p i
 end
