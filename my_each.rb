@@ -8,5 +8,5 @@ def my_each(array)
 end
 
 my_each() do |i|
-  puts i 
+  puts i
 end
